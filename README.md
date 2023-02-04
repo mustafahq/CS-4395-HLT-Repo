@@ -3,3 +3,7 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Overview of NLP
 [NLP Summary and Applications](Overview_of_NLP.pdf)
+
+## Assignment 1: Text Processing with Python
+[Text Overview](Assignment_1_Overview.pdf)
+[Code](Homework1.py)
