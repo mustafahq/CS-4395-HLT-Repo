@@ -8,3 +8,6 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 [Text Overview](Assignment_1/Assignment_1_Overview.pdf)
 
 [Code](Assignment_1/Assignment_1.py)
+
+## Assignment 2: Word Guessing Game (+ NLTK Analysis)
+[Code](Assignment_2/Assignment_2.py)
