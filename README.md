@@ -11,3 +11,6 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Assignment 2: Word Guessing Game (+ NLTK Analysis)
 [Code](Assignment_2/Assignment_2.py)
+
+## Assignment 3: WordNet
+[PDF](Assignment_3/Portfolio_Assignment_WordNet.pdf)
