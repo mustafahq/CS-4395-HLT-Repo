@@ -14,3 +14,6 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Assignment 3: WordNet
 [PDF](Assignment_3/Portfolio_Assignment_WordNet.pdf)
+
+## Assignment 5: Sentence Parsing
+[PDF](Assignment_5/Sentence_Parsing.pdf)
