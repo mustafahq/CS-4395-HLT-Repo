@@ -17,8 +17,10 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Assignment 4: N-grams
 [Code Part 1](Assignment_4/Assignment_4_Part1.py)
+
 [Code Part 2](Assignment_4/Assignment_4_Part2.py)
-[PDF](Assignment_4/N-grams_Narrative.pdf)
+
+[N-grams Narrative](Assignment_4/N-grams_Narrative.pdf)
 
 ## Assignment 5: Sentence Parsing
 [PDF](Assignment_5/Sentence_Parsing.pdf)
