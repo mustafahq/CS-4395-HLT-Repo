@@ -24,3 +24,6 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Assignment 5: Sentence Parsing
 [PDF](Assignment_5/Sentence_Parsing.pdf)
+
+## Assignment: Text Classification 1
+[PDF](Text_Classification_1/Text_Classification_1.pdf)
