@@ -27,3 +27,6 @@ Repository composed of coursework for CS 4395 (Human Language Technologies)
 
 ## Assignment: Text Classification 1
 [PDF](Text_Classification_1/Text_Classification_1.pdf)
+
+## Assignment: ACL Paper Summary
+[PDF](ACL_Paper_Summary/ACL_Paper_Summary.pdf)
